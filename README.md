@@ -1,16 +1,17 @@
-# Little Lemon Demo
+Little Lemon Demo
+Little Lemon Demo is an iOS app developed with SwiftUI, showcasing the skills acquired during the Meta iOS Professional Developer Certification program. This application offers a seamless user experience and is packed with a range of features:
 
-**Little Lemon Demo** is a SwiftUI-based iOS app that demostrates the skills gain in the Meta iOS Professional Developer Certification. The application is programmed using SwiftUI. It has an onboarding section, home section which has a mock menu, and a profile section. The profile section allows users to manage their personal information and profile picture. Users can update their first name, last name, and email, as well as change their profile picture by either taking a photo with the camera or selecting one from the photo library.
-
-## Features
-- Onboarding to collect personal information (first name, last name, email). 
-- Log into the application and only go back to onboarding after logging out.
-- Have a demo menu list. 
-- Filter demo menu list by category buttons and/or by text search.
-- View and edit personal information (first name, last name, email).
-- Change and update the profile picture.
-- Save changes and profile picture to local storage (UserDefaults and document directory).
-- Logout from the app.
+Key Features
+- Onboarding: Collect user's personal information, including first name, last name, and email.
+- Login: Users can securely log in to the application, and easily return to the onboarding section after logging out.
+- Home Section: This section presents a mock menu for users to explore.
+- Demo Menu: Offers a comprehensive list of items for users to explore.
+- Filtering: Users can filter the demo menu list by category buttons and/or by using a text search.
+- Profile Management: Users have the ability to view and edit their personal information, including first name, last name, and email.
+- Profile Picture: Users can change and update their profile picture.
+- Local Storage: All changes and profile pictures are saved locally, utilizing UserDefaults and the document directory for data storage.
+- Logout: Easily log out from the app.
+- The Little Lemon Demo app is designed to provide a complete and interactive user experience, allowing users to manage their profile and explore a variety of features.
 
 ## Prerequisites
 
@@ -19,24 +20,24 @@
 
 ## Installation
 
-1. Clone the repository to your local machine:
+- Clone the repository to your local machine:
 git clone https://github.com/vinisander1024/Project_Lemon_Food_App.git
 
-2. Open the project in Xcode.
+- Open the project in Xcode.
 
-3. Build and run the app on your iOS simulator or a physical device.
+- Build and run the app on your iOS simulator or a physical device.
 
 ## Usage
 
-- Open the app.
-- Complete the onboarding pages. There are 3 of them.
-- Use the text field to filter the menu by title.
-- Use the pill buttons to filter by category.
-- Tap the upper right image and navigate to the User Profile section
-- Edit your first name, last name, and email.
-- Tap "Change Avatar" to update your profile picture.
-- Choose to take a new photo or select one from your photo library.
-- Save changes or log out from the app.
+- Launch the application.
+- Progress through the onboarding process, which consists of three informative pages.
+- Utilize the text field to filter the menu items based on their titles.
+- Make use of the pill buttons to filter the menu by category.
+- Tap the image located in the upper right corner to navigate to the User Profile section.
+- Modify your first name, last name, and email as needed.
+- Select "Change Avatar" to update your profile picture.
+- Opt to either capture a new photo or select an existing one from your photo library.
+- Save the changes made to your profile or choose to log out from the app.
 
 ## License
 
